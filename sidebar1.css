@@ -41,3 +41,10 @@ ul li:hover a{
 .sidebar ul a i{
     margin-right: 16px;
 }
+#check{
+    display: none;
+}
+ label #btn,label #cancel{
+    position: absolute;
+
+}
