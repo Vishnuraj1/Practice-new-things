@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+header{
+   
+    background: linear-gradient(135deg,#020381 0%,#2874fc 100%);;
+}
+#logo{
+  
+   margin-top: 20px;
+   float: left;
+}
+#logo-text{
+   float: left;
+   margin-top: 33px;
+   align-items: center;
+   color: #ffff;
+}
+.logo{
+    align-items: center;
+}
+.first-section{
+    background: linear-gradient(135deg,#020381 0%,#2874fc 100%);;
+}
+.text{
+    margin: auto;
+    text-align: center;
+    padding-top: 30%;
+  
+    border-radius: 5px;
+    color: white;
+   
+}
+h3{
+    color:black;
+}
+input{
+    border-radius: 5px;
+    height: 2rem;
+}
+#sub-btn{
+    border-radius: 5px;
+    height: 2rem;
+    background: aqua;
+    color: rgb(56, 43, 43);
+}
+.form-text{
+    width: 50%;
+    
+}
+.form-text{
+    float: left;
+}
+.form{
+    float: left;
+}
