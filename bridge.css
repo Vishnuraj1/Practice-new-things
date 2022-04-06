@@ -36,7 +36,9 @@ h3{
 }
 input{
     border-radius: 5px;
-    height: 2rem;
+    height: 3rem;
+    width: 15rem;
+    margin: 3px;
 }
 #sub-btn{
     border-radius: 5px;
@@ -44,13 +46,9 @@ input{
     background: aqua;
     color: rgb(56, 43, 43);
 }
-.form-text{
-    width: 50%;
-    
-}
-.form-text{
-    float: left;
-}
-.form{
-    float: left;
+.main-form{
+    height: 300px;
+    width: 200px;
+    margin: 6rem;
+    margin-left: 6rem;
 }
