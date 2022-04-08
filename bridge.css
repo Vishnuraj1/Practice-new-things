@@ -52,3 +52,6 @@ input{
     margin: 6rem;
     margin-left: 6rem;
 }
+.Footer{
+    background: linear-gradient(135deg,#020381 0%,#2874fc 100%);;
+}
