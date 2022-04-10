@@ -1,5 +1,8 @@
 *{
     margin: 0;
+    padding: 0;
+    margin-right: 0;
+
 }
 header{
    
@@ -54,4 +57,7 @@ input{
 }
 .Footer{
     background: linear-gradient(135deg,#020381 0%,#2874fc 100%);;
+}
+.docs{
+    text-decoration: none;
 }
